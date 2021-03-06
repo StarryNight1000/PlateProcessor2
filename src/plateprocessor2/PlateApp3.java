@@ -20,7 +20,7 @@ public class PlateApp3 {
 	private static Shell shell;
 	
 	/**
-	 * Launch the application.
+	 * Launch the application. This is the main application.
 	 * @param args
 	 */
 	public static void main(String[] args) {

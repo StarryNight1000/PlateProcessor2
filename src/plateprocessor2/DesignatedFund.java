@@ -3,6 +3,7 @@ package plateprocessor2;
 public class DesignatedFund {
 	
 	public enum Type{GIFT,REIMBURSEMENT};
+	
 	private String name;
 	private Type type;
 	private double amount;
